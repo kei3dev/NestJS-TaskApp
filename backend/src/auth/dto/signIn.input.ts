@@ -9,5 +9,5 @@ export class SignInInput {
 
   @Field()
   @MinLength(8)
-  passworod: string;
+  password: string;
 }
