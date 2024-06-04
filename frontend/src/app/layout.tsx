@@ -1,6 +1,7 @@
 import { Inter } from 'next/font/google';
 import type { Metadata } from 'next';
 import type { ReactNode } from 'react';
+import { ChakraProvider } from '@chakra-ui/react';
 
 const inter = Inter({ subsets: ['latin'] });
 
@@ -13,7 +14,7 @@ const RootLayout = ({ children }: { children: ReactNode }) => {
   return (
     <html lang="ja">
       <body className={inter.className}>
-        <body className={inter.className}>{children}</body>
+        <ChakraProvider cssVarsRoot="body">{children}</ChakraProvider>
       </body>
     </html>
   );
