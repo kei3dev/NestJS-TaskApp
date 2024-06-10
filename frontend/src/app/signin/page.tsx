@@ -1,7 +1,7 @@
-import { Text } from '@chakra-ui/react';
+import { SignInForm } from '@/components/SignInForm';
 
 const SignInPage = () => {
-  return <Text fontSize="lg">サインイン画面</Text>;
+  return <SignInForm />;
 };
 
 export default SignInPage;
