@@ -5,8 +5,6 @@
 NestJS で GraphQL バックエンド API を開発  
 フロントエンドには Next.js を使用
 
-## NestJS で GraphQL バックエンド API を開発
-
 こちらのアプリケーションの作り方を [Zenn](https://zenn.dev/) で本にしました  
 [NestJS で GraphQL 開発を試す](https://zenn.dev/books/ce5e3208a9d393/)
 
