@@ -26,4 +26,3 @@ NestJS で GraphQL バックエンド API を開発
 - PostgreSQL
 - Passport.js
 - Docker
-- Chakra UI
