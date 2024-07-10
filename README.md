@@ -1,8 +1,9 @@
-# NestJS TaskApp
+# Task App
+
+### ユーザー認証付きにタスク管理アプリ
 
 NestJS で GraphQL バックエンド API を開発  
-フロントエンドには Next.js を使用  
-ユーザー認証付きにタスク管理アプリ
+フロントエンドには Next.js を使用
 
 ## NestJS で GraphQL バックエンド API を開発
 
