@@ -4,14 +4,13 @@
 
 NestJS で GraphQL バックエンド API を開発
 
-こちらのアプリケーションの作り方を [Zenn](https://zenn.dev/) で本にしました  
+こちらの開発方法を [Zenn](https://zenn.dev/) で本にまとめました  
 [NestJS で GraphQL 開発を試す](https://zenn.dev/books/ce5e3208a9d393/)
 
 ## Stack
 
 - NestJS
 - GraphQL
-- Apollo Server
 - Prisma
 - PostgreSQL
 - Passport.js
