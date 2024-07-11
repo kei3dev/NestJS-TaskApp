@@ -16,26 +16,34 @@ NestJS で GraphQL バックエンド API を開発
 - Passport.js
 - Docker
 
-## ライブラリのインストール
+## 環境構築
+
+### Dockerでデータベースの作成
+
+```
+docker-compose up -d
+```
+
+### ライブラリのインストール
 
 ```
 pnpm i
 ```
 
-## 開発サーバー起動
+### 開発サーバー起動
 
 ```
 pnpm run start:dev
 ```
 
-## GraphQL Playground
-
-```
-http://localhost:3000/graphql
-```
-
-## Prisma Studioの起動
+### Prisma Studioの起動
 
 ```
 npx prisma studio
+```
+
+### GraphQL Playground
+
+```
+http://localhost:3000/graphql
 ```
