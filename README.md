@@ -5,7 +5,7 @@
 NestJS で GraphQL バックエンド API を開発
 
 こちらの開発方法を [Zenn](https://zenn.dev/) で本にまとめました  
-[NestJS で GraphQL 開発を試す](https://zenn.dev/books/ce5e3208a9d393/)
+[NestJS で GraphQL 開発を試す](https://zenn.dev/keisuke333/books/ce5e3208a9d393)
 
 ## Stack
 
