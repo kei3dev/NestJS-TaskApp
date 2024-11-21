@@ -21,7 +21,7 @@ NestJS で GraphQL バックエンド API を開発
 ### Dockerでデータベースの作成
 
 ```
-docker-compose up -d
+docker compose up -d
 ```
 
 ### ライブラリのインストール
